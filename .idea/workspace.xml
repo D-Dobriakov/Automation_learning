@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bb27af07-ea49-4155-a640-e1560105e395" name="Default Changelist" comment="" />
+    <list default="true" id="bb27af07-ea49-4155-a640-e1560105e395" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/module.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Automation_learning.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Automation_learning.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gemfile.rb" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test_first_lesson.rb" beforeDir="false" afterPath="$PROJECT_DIR$/Test_first_lesson.rb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,7 +24,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1ZWkdHmbaxxdVqmf3UJtaCXov6h" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -64,7 +72,10 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1584962322648</updated>
-      <workItem from="1584962323816" duration="26267000" />
+      <workItem from="1584962323816" duration="29772000" />
+      <workItem from="1585234064182" duration="4785000" />
+      <workItem from="1585663085116" duration="1311000" />
+      <workItem from="1585726602261" duration="2629000" />
     </task>
     <servers />
   </component>
@@ -72,24 +83,33 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1358" height="240" key="GridCell.Tab.0.bottom" timestamp="1585210403264">
+    <state x="304" y="160" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585662673370">
       <screen x="0" y="23" width="1680" height="947" />
     </state>
-    <state width="1358" height="240" key="GridCell.Tab.0.bottom/0.23.1680.947@0.23.1680.947" timestamp="1585210403264" />
-    <state width="1358" height="240" key="GridCell.Tab.0.center" timestamp="1585210403263">
+    <state x="304" y="160" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1680.947@0.23.1680.947" timestamp="1585662673370" />
+    <state x="563" y="306" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1585213909556">
       <screen x="0" y="23" width="1680" height="947" />
     </state>
-    <state width="1358" height="240" key="GridCell.Tab.0.center/0.23.1680.947@0.23.1680.947" timestamp="1585210403263" />
-    <state width="1358" height="240" key="GridCell.Tab.0.left" timestamp="1585210403263">
+    <state x="563" y="306" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1680.947@0.23.1680.947" timestamp="1585213909556" />
+    <state width="1358" height="240" key="GridCell.Tab.0.bottom" timestamp="1585726487972">
       <screen x="0" y="23" width="1680" height="947" />
     </state>
-    <state width="1358" height="240" key="GridCell.Tab.0.left/0.23.1680.947@0.23.1680.947" timestamp="1585210403263" />
-    <state width="1358" height="240" key="GridCell.Tab.0.right" timestamp="1585210403264">
+    <state width="1358" height="240" key="GridCell.Tab.0.bottom/0.23.1680.947@0.23.1680.947" timestamp="1585726487972" />
+    <state width="1358" height="240" key="GridCell.Tab.0.center" timestamp="1585726487971">
       <screen x="0" y="23" width="1680" height="947" />
     </state>
-    <state width="1358" height="240" key="GridCell.Tab.0.right/0.23.1680.947@0.23.1680.947" timestamp="1585210403264" />
+    <state width="1358" height="240" key="GridCell.Tab.0.center/0.23.1680.947@0.23.1680.947" timestamp="1585726487971" />
+    <state width="1358" height="240" key="GridCell.Tab.0.left" timestamp="1585726487971">
+      <screen x="0" y="23" width="1680" height="947" />
+    </state>
+    <state width="1358" height="240" key="GridCell.Tab.0.left/0.23.1680.947@0.23.1680.947" timestamp="1585726487971" />
+    <state width="1358" height="240" key="GridCell.Tab.0.right" timestamp="1585726487972">
+      <screen x="0" y="23" width="1680" height="947" />
+    </state>
+    <state width="1358" height="240" key="GridCell.Tab.0.right/0.23.1680.947@0.23.1680.947" timestamp="1585726487972" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Automation_learning@Test_addition.rcov" NAME="Test_first_lesson Coverage Results" MODIFIED="1585210403141" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Automation_learning" />
+    <SUITE FILE_PATH="coverage/Automation_learning@Test_first_lesson.rcov" NAME="Test_first_lesson Coverage Results" MODIFIED="1585664870208" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Automation_learning" />
+    <SUITE FILE_PATH="coverage/Automation_learning@Test_addition.rcov" NAME="Test_first_lesson Coverage Results" MODIFIED="1585231023972" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Automation_learning" />
   </component>
 </project>
