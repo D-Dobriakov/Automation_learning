@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bb27af07-ea49-4155-a640-e1560105e395" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/module.rb" beforeDir="false" afterPath="$PROJECT_DIR$/module.rb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -71,7 +72,8 @@
       <workItem from="1584962323816" duration="29772000" />
       <workItem from="1585234064182" duration="4785000" />
       <workItem from="1585663085116" duration="1311000" />
-      <workItem from="1585726602261" duration="3097000" />
+      <workItem from="1585726602261" duration="4329000" />
+      <workItem from="1586511850376" duration="263000" />
     </task>
     <servers />
   </component>
@@ -87,25 +89,25 @@
       <screen x="0" y="23" width="1680" height="947" />
     </state>
     <state x="563" y="306" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1680.947@0.23.1680.947" timestamp="1585213909556" />
-    <state width="1358" height="240" key="GridCell.Tab.0.bottom" timestamp="1585726487972">
+    <state width="1358" height="240" key="GridCell.Tab.0.bottom" timestamp="1586289049554">
       <screen x="0" y="23" width="1680" height="947" />
     </state>
-    <state width="1358" height="240" key="GridCell.Tab.0.bottom/0.23.1680.947@0.23.1680.947" timestamp="1585726487972" />
-    <state width="1358" height="240" key="GridCell.Tab.0.center" timestamp="1585726487971">
+    <state width="1358" height="240" key="GridCell.Tab.0.bottom/0.23.1680.947@0.23.1680.947" timestamp="1586289049554" />
+    <state width="1358" height="240" key="GridCell.Tab.0.center" timestamp="1586289049552">
       <screen x="0" y="23" width="1680" height="947" />
     </state>
-    <state width="1358" height="240" key="GridCell.Tab.0.center/0.23.1680.947@0.23.1680.947" timestamp="1585726487971" />
-    <state width="1358" height="240" key="GridCell.Tab.0.left" timestamp="1585726487971">
+    <state width="1358" height="240" key="GridCell.Tab.0.center/0.23.1680.947@0.23.1680.947" timestamp="1586289049552" />
+    <state width="1358" height="240" key="GridCell.Tab.0.left" timestamp="1586289049552">
       <screen x="0" y="23" width="1680" height="947" />
     </state>
-    <state width="1358" height="240" key="GridCell.Tab.0.left/0.23.1680.947@0.23.1680.947" timestamp="1585726487971" />
-    <state width="1358" height="240" key="GridCell.Tab.0.right" timestamp="1585726487972">
+    <state width="1358" height="240" key="GridCell.Tab.0.left/0.23.1680.947@0.23.1680.947" timestamp="1586289049552" />
+    <state width="1358" height="240" key="GridCell.Tab.0.right" timestamp="1586289049553">
       <screen x="0" y="23" width="1680" height="947" />
     </state>
-    <state width="1358" height="240" key="GridCell.Tab.0.right/0.23.1680.947@0.23.1680.947" timestamp="1585726487972" />
+    <state width="1358" height="240" key="GridCell.Tab.0.right/0.23.1680.947@0.23.1680.947" timestamp="1586289049553" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Automation_learning@Test_first_lesson.rcov" NAME="Test_first_lesson Coverage Results" MODIFIED="1585664870208" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Automation_learning" />
+    <SUITE FILE_PATH="coverage/Automation_learning@Test_first_lesson.rcov" NAME="Test_first_lesson Coverage Results" MODIFIED="1586183781949" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Automation_learning" />
     <SUITE FILE_PATH="coverage/Automation_learning@Test_addition.rcov" NAME="Test_first_lesson Coverage Results" MODIFIED="1585231023972" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Automation_learning" />
   </component>
 </project>
